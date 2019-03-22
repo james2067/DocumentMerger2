@@ -1,0 +1,3 @@
+text document 1 contents.
+text file 2 contents.
+text file 3 contents.
